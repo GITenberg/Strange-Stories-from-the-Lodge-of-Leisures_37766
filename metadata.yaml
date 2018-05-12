@@ -1,0 +1,51 @@
+_repo: Strange-Stories-from-the-Lodge-of-Leisures_37766
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Soulié de Morant, G. (Georges)
+    aliases:
+    - Morant, Georges Soulié de
+    - Soulie de Morant, G. (Georges)
+    - Soulié, Charles Georges
+    - Morant, G. Soulié de (Georges Soulié)
+    - Soulié, Georges
+    - De Morant, G. Soulié (Georges Soulié)
+    birthdate: 1878
+    deathdate: 1955
+    gutenberg_agent_id: '4219'
+    url: http://www.gutenberg.org/2009/agents/4219
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pu, Songling
+    aliases:
+    - 蒲松齡
+    - Xi, Zhousheng
+    birthdate: 1640
+    deathdate: 1715
+    gutenberg_agent_id: '31835'
+    url: http://www.gutenberg.org/2009/agents/31835
+description: ''
+gutenberg_issued: '2011-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories, Chinese'
+- !lcsh 'Chinese fiction -- Translations into English'
+- !lcc 'PL'
+tableOfContents: The ghost in love -- The fresco -- The dwarf hunters -- The corpse
+  of the blood-drinker -- Love rewarded -- The woman in green -- The fault and its
+  consequences -- Deceiving shadows -- Peaceful-light -- Hong the currier -- Autumn-moon
+  -- The princess Nelumbo -- The two brothers -- The marble arch -- The dutiful son
+  -- Through many lives -- The river of sorrows -- The mysterious island -- The spirit
+  of the river -- The devils-of-the-ocean -- Unknown devils -- Childless -- The patch
+  of lamb's skin -- Love's-slave -- The laughing ghost.
+title: Strange Stories from the Lodge of Leisures
+url: http://www.gutenberg.org/ebooks/37766
