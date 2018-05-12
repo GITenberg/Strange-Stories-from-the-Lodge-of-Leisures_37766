@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '31835'
     url: http://www.gutenberg.org/2009/agents/31835
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37766#Strange-Stories-from-the-Lodge-of-Leisures
 gutenberg_issued: '2011-10-16'
 gutenberg_type: Text
 identifiers:
